@@ -19,7 +19,7 @@ variable "openstack_keypair" {
 }
 
 variable "PASSWORD" {
-    default="burrodepaja1234"
+    default="xxxxxxx"
 }
 
 
