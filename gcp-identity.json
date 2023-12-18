@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "nice-aegis-402215",
+  "private_key_id": "dcb9b95fa5845849247a5fafb083c2b59658c734",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC+0do+AnGsTLeV\nAa+j9/91cinJ+5z1EzDaWrzxBe6FrqQt5xTzZAD7Oq7iQIx3WlUlubSsDH9lKW7e\nY6S/y6QeaCXdLRQrVo2pxh6l0ercPSlkflpQ+s+5cfxXTeIy5Z494+CZpLlNxukt\n9s1C29v2BcueNqas7gRaFb9hnnTDb5A9CXmxoEqcx/VOS4YcXcFRVkSod3zbi2e7\ne53vqs2k+3CDTgNtsIUvTMudY9K2ws85jUzwL2l9otZYcD16eUeBHUu12WYpXC6P\nIZazgpy6Ui3HJVmMSlfIWffwDZf09PoOjYLA51jwLj08ScR1IwJ7ncUpaALqwiZ0\nplL6/QVPAgMBAAECggEAKpEOkbGi4PA2La+0Giw62NywNMYDs+nlhngiWNPdawXT\nyweW9Vp0G5byJzeF/iPxBZrhElYxXwQ4nrR0rnJDeKL7+1RQgQBsVpiDArOKpDmi\nj6/d/t2MVA5435LYqEjvnVfFpRCJY6/BGYdKL6Vy8nVFgFQppz7rSps6V5Ds9CF+\nzpo6xiTgQQXCd4aebY0tyOw7cuaEqyPFj5RlsHOv7eiz5U9D1CjgN1+PA3MlePcJ\n5Re5i7LoM21YFARuYnBSgk1+zc9uYS8zIZvJkK94PEU81x8JCchorNPGjnu9I3qj\nfk05e99QjDKNgHXjZVkagMNATqcPFlQB+kDH32AgxQKBgQDkbYVFJXW3R4j8MNCX\nZP4OFmlBA6DzIZhCMsR2g7LvMyWJKNb2dJpd6ZD3RN1VE3Qw/ljR+RjBsi5DG+qM\nUfW6Ss8DFr7bRgPop3kw8fqQUWeBlTgQTXH0fOhX2ie3YGJ8bg8DEezNK1vbX43O\n/6tYJigtBndCRYgGW4MpDBr57QKBgQDV2juAmXIXdoQxl2gk5pKN9N+Tr5ccyd5C\n63x2LfJql1UvUGS7XW3OYgbE6OrG3csNfjMPPV6BFwORl8Mso2tBltxP+IBSMdO8\nkhMs9/+UOEffS0+iEFHhAoDTqMPeeal06pQp1/UnbnBhF266zVZB242VOzr31TbC\nCLdmV8XkqwKBgGaPaePW4tiMjMu2WyFuXccTduSS7YPcVJF8W8tebEuLqlG//Wwg\nhGKgCM+Motec6XFJ8bUs41msV6sX8KJZ9jtTdUjMwJqRABZIg1hffQGpGxEKX2aq\nbvy3zFYNhAGIjA+UFrdpJ+oiipafe3syPctRLn6wxYEC2QUJt4UJg18tAoGBAKaZ\njSFyaV++BN5dhdS5jBLrYgI8GQ1kdrLLofqvcNt5afOiPdd5wcG2vG9KxRyITVgF\nqOGGfckzlKQoBvUPms9OJ/RlNBLUno+ZfTbbPVDLR7K9iRxIeoFA4fwCzhTT0yAy\nX5r5kxNVBledWbZNoZVM5dAMhLPudupSwA4K8zBhAoGBAI8tQeh+3/+LODmRFysU\nJrFQaPuNONZJ+fW7n+vmYsE32g/CqwxTWb+htb3dDSI1j59F2sTFEgCEzhFKNqGc\nTKR+rCp9d/txY0X7L78sxjMAhnVcYewOffwlhua/xA48NqPRqEsRtGujkjTY0KwC\nLWL+VsN27ld+hZ6+Jw0SHTzI\n-----END PRIVATE KEY-----\n",
+  "client_email": "nice-aegis-402215@appspot.gserviceaccount.com",
+  "client_id": "100907389140105705022",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/nice-aegis-402215%40appspot.gserviceaccount.com"
+}
